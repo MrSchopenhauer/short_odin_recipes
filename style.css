@@ -1,0 +1,80 @@
+/*
+For this styling you should use
+external CSS method
+
+Try several properties mentioned in the previous
+lesson 
+
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+https://www.w3schools.com/Css/css_font.asp
+
+*/
+
+/*General*/
+
+.title{
+    font-size: 45px;
+    background-color: rgb(255, 127, 48);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.description{
+    font-size: 30px;
+    color: black;
+}
+
+li,
+h3,
+p{
+    font-size: 20px;
+}
+
+.ingredientes{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.prep{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.odd{
+    background-color: #fea98d;
+}
+.even{
+    background-color: #ffd5c6;
+}
+/*Index*/
+
+.index{
+    font-size:35px;
+}
+
+/*Chilpaztle*/
+
+
+
+
+/*Popocha*/
+
+.imagen.dos{
+    width: 50%;
+}
+
+/*Mextlapique*/
+
+.imagen.tres{
+    width: 20%;
+}
