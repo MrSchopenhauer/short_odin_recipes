@@ -18,6 +18,8 @@ https://www.w3schools.com/Css/css_font.asp
     color: white;
     font-weight: bold;
     text-align: center;
+    width: 500px;
+    margin: auto;
 }
 
 .imagen{
@@ -37,6 +39,16 @@ h3,
 p{
     font-size: 20px;
 }
+p{
+    width: 1700px;
+    margin-inline:auto;
+    margin-bottom:10px;
+}
+li{
+    width: 800px;
+    margin: auto;
+    margin-bottom:5px;
+}
 
 .ingredientes{
     text-align: center;
@@ -51,26 +63,33 @@ p{
 }
 
 .odd{
-    background-color: #fea98d;
+    background-color: #faddd2;
+
 }
 .even{
-    background-color: #ffd5c6;
+    background-color: #ffffff;
 }
 /*Index*/
 
+.odin{
+    margin-bottom:40px;
+}
+
 .index{
     font-size:35px;
+    margin-block:15px;
+}
+
+.background{
+    margin-top: 30px;
 }
 
 /*Chilpaztle*/
 
-
-
-
 /*Popocha*/
 
 .imagen.dos{
-    width: 50%;
+    width: 20%;
 }
 
 /*Mextlapique*/
